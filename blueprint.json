@@ -125,7 +125,7 @@
         "immutable": false,
         "input": {
           "label": "Admin User name",
-          "type": "text",
+          "type": "string",
           "title": "Admin User name",
           "comment": "",
           "hint": "",
