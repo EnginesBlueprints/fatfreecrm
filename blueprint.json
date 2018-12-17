@@ -26,14 +26,14 @@
         "url": "http://www.gnu.org/copyleft/gpl.html"
       }
     },
-    "timestamp": "2018-05-07T19:33:07+10:00"
+    "timestamp": "2018-12-17T16:23:11+11:00"
   },
   "software": {
     "base": {
       "name": "fatfreecrm",
-      "framework": "rails4",
+      "framework": "rails5",
       "deployment_type": "web",
-      "http_protocol": "http_and_https",
+      "http_protocol": "https_only",
       "memory": {
         "required": 220,
         "recommended": 340
